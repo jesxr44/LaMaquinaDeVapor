@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La Màquina De Vapor"
-date:   2026-01-20 12:00:00 +0100
+date:   2026-01-22 12:00:00 +0100
 categories: noticia
 ---
 
