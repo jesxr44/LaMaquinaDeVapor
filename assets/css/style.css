@@ -1,0 +1,34 @@
+@import "minima";
+
+// Personalización "La Màquina De Vapor"
+body {
+  background-color: #1b2838; // Color clásico de Steam
+  color: #c7d5e0;
+}
+
+.site-title, .site-nav .page-link {
+  color: #66c0f4 !important; // Azul Steam
+}
+
+.post-title {
+  color: #ffffff;
+}
+
+.post-link {
+  color: #66c0f4;
+  font-size: 1.5rem;
+}
+
+.site-header {
+  border-top: 5px solid #2a475e;
+  background-color: #171a21;
+}
+
+.wrapper {
+  max-width: 800px;
+}
+
+code {
+  background-color: #2a475e;
+  color: #ffffff;
+}
